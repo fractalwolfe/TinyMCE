@@ -1,0 +1,1 @@
+tinyMCE.addI18n('sv.paste_dlg',{"word_title":"Anv\u00E4nd Ctrl+V p\u00E5 ditt tangentbod f\u00F6r att klistra in texten i f\u00F6nstret.","text_linebreaks":"Beh\u00E5ll radbrytningar","text_title":"Anv\u00E4nd Ctrl+V p\u00E5 ditt tangentbord f\u00F6r att klistra in texten i f\u00F6nstret."});

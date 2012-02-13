@@ -49,7 +49,7 @@ accesskey:"Snabbtangent",
 ltr:"V\u00E4nster till h\u00F6ger",
 rtl:"H\u00F6ger till v\u00E4nster",
 link_list:"L\u00E4nklista"
-,pagetitle: 'Pagetitle'
+,pagetitle: 'Sidtitel'
 ,alias: 'Alias'
-,search: 'Search'
+,search: 'S\u00F6k'
 });
