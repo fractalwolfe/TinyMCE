@@ -1,0 +1,1 @@
+tinyMCE.addI18n('sv.simple',{"cleanup_desc":"St\u00E4da upp r\u00F6rig kod","redo_desc":"G\u00F6r om (Ctrl+Y)","undo_desc":"\u00C5ngra (Ctrl+Z)","numlist_desc":"Infoga/Radera numrerad lista","bullist_desc":"Infoga/Radera punktlista","striketrough_desc":"Genomstrykning","underline_desc":"Understrykning (Ctrl+U)","italic_desc":"Kursiv (Ctrl+I)","bold_desc":"Fet stil (Ctrl+B)"});
